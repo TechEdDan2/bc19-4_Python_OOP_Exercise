@@ -10,6 +10,8 @@ This is a solution to the Python Unit
 
 ### The challenge
 
+The SerialGenerator class makes a “serial number generator” — you should be able to initialize it with a start number
+
 The WordFinder class works like this::
 
 - it is instantiated with a path to a file on disk that contains words, one word per line
